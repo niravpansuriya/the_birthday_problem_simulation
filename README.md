@@ -1,7 +1,7 @@
 # The Birthday Problem Simulation
 
 <p align="center">
-  <img src="https://github.com/niravpansuriya/the_birthday_problem_simulation/blob/master/birthday_paradox_cover_cropped.jpg" title="Cover">
+  <img src="https://github.com/niravpansuriya/the_birthday_problem_simulation/blob/master/birthday_paradox_cover.jpg" title="Cover">
 </p>
 
 - This is the simulation of **The Birthday Problem**.
