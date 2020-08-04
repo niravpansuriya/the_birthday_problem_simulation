@@ -1,14 +1,16 @@
-# Driver Drowsiness Detection
+# The Birthday Problem Simulation
 
-- This program will start the video recording, if it will detect the gesture(right now 3 fingures).
+<p align="center">
+  <img src="https://github.com/niravpansuriya/the_birthday_problem_simulation/blob/master/birthday_paradox_cover_cropped.jpg" title="Cover">
+</p>
 
+- This is the simulation of **The Birthday Problem**.
+- If you don't know what is the birthday problem, this please refer my this detailed [article](https://medium.com/@pniravc36/the-birthday-problem-cd61258fcb02?source=friends_link&sk=f11355641cbc6b06b70f11cee3026e53) on medium.
 
 ### How it works?
 
 
-<p align="center">
-  <img src="https://github.com/niravpansuriya/smart-video--recording-with--gesture-detection/blob/master/3-fingures.JPG" title="Three Fingures Gesture">
-</p>
+
 
 <p align="center">
   <img src="https://github.com/niravpansuriya/smart-video--recording-with--gesture-detection/blob/master/defects.JPG" title="Defects">
@@ -33,7 +35,7 @@
 
 ### Prerequisites
 
-- [Python 3.0 +](https://www.python.org/downloads/)
+- [Python 3.0 +](https://www.python.org/downloads/) on 
 - [OpenCV](https://opencv.org/) - Library, aimed for real-time Computer Vision.
 
 
