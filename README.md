@@ -5,7 +5,7 @@
 </p>
 
 - This is the simulation of **The Birthday Problem**.
-- If you don't know what is the birthday problem, this please refer my detailed [article](https://medium.com/@pniravc36/the-birthday-problem-cd61258fcb02?source=friends_link&sk=f11355641cbc6b06b70f11cee3026e53) on medium.
+- If you don't know what is the birthday problem, this please refer my detailed [article](https://medium.com/@pniravc36/the-birthday-problem-577a333e7494?source=friends_link&sk=4fc79d05c36c61391f2230c4accb2a8c) on medium.
 
 
 ## Author
